@@ -2,8 +2,8 @@
 Supplementary data for the submitted conference paper 'Optimizing performance in automation through modular robots' by Stefan B. Liu and Matthias Althoff
 
 Abbreviations
-. IR -> Industrial Robot
-. MR -> Modular Robot
-. t -> Time
-. E -> Energy
-. TC -> Total cost
+* IR &rarr; Industrial Robot
+* MR &rarr; Modular Robot
+* t &rarr; Time
+* E &rarr; Energy
+* TC &rarr; Total cost
